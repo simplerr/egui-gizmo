@@ -16,7 +16,7 @@ keywords = ["egui", "3d", "gizmo"]
 members = ["demo"]
 
 [dependencies]
-egui = "0.19"
+egui = "0.20.1"
 glam = "0.21"
 
 [profile.release]
